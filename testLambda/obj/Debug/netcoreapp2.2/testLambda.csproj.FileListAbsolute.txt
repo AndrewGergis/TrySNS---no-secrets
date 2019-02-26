@@ -1,0 +1,10 @@
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\testLambda\bin\Debug\netcoreapp2.2\testLambda.deps.json
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\testLambda\bin\Debug\netcoreapp2.2\testLambda.runtimeconfig.json
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\testLambda\bin\Debug\netcoreapp2.2\testLambda.runtimeconfig.dev.json
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\testLambda\bin\Debug\netcoreapp2.2\testLambda.dll
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\testLambda\bin\Debug\netcoreapp2.2\testLambda.pdb
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\testLambda\obj\Debug\netcoreapp2.2\testLambda.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\testLambda\obj\Debug\netcoreapp2.2\testLambda.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\testLambda\obj\Debug\netcoreapp2.2\testLambda.AssemblyInfo.cs
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\testLambda\obj\Debug\netcoreapp2.2\testLambda.dll
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\testLambda\obj\Debug\netcoreapp2.2\testLambda.pdb

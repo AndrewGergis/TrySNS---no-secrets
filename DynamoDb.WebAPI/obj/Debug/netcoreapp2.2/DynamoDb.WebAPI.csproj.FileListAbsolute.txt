@@ -1,0 +1,17 @@
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb.WebAPI\bin\Debug\netcoreapp2.2\DynamoDb.WebAPI.deps.json
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb.WebAPI\bin\Debug\netcoreapp2.2\DynamoDb.WebAPI.runtimeconfig.json
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb.WebAPI\bin\Debug\netcoreapp2.2\DynamoDb.WebAPI.runtimeconfig.dev.json
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb.WebAPI\bin\Debug\netcoreapp2.2\DynamoDb.WebAPI.dll
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb.WebAPI\obj\Debug\netcoreapp2.2\DynamoDb.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb.WebAPI\obj\Debug\netcoreapp2.2\DynamoDb.WebAPI.RazorAssemblyInfo.cache
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb.WebAPI\obj\Debug\netcoreapp2.2\DynamoDb.WebAPI.RazorAssemblyInfo.cs
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb.WebAPI\obj\Debug\netcoreapp2.2\DynamoDb.WebAPI.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb.WebAPI\obj\Debug\netcoreapp2.2\DynamoDb.WebAPI.AssemblyInfo.cs
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb.WebAPI\obj\Debug\netcoreapp2.2\DynamoDb.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb.WebAPI\obj\Debug\netcoreapp2.2\DynamoDb.WebAPI.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb.WebAPI\bin\Debug\netcoreapp2.2\DynamoDb.WebAPI.pdb
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb.WebAPI\obj\Debug\netcoreapp2.2\DynamoDb.WebAPI.dll
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb.WebAPI\obj\Debug\netcoreapp2.2\DynamoDb.WebAPI.pdb
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb.WebAPI\bin\Debug\netcoreapp2.2\DynamoDb.Libs.dll
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb.WebAPI\bin\Debug\netcoreapp2.2\DynamoDb.Libs.pdb
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb.WebAPI\obj\Debug\netcoreapp2.2\DynamoDb.WebAPI.csproj.CopyComplete

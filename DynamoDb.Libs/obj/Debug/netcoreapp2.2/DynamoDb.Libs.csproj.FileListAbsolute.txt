@@ -1,0 +1,8 @@
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb.Libs\bin\Debug\netcoreapp2.2\DynamoDb.Libs.deps.json
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb.Libs\bin\Debug\netcoreapp2.2\DynamoDb.Libs.dll
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb.Libs\obj\Debug\netcoreapp2.2\DynamoDb.Libs.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb.Libs\obj\Debug\netcoreapp2.2\DynamoDb.Libs.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb.Libs\obj\Debug\netcoreapp2.2\DynamoDb.Libs.AssemblyInfo.cs
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb.Libs\bin\Debug\netcoreapp2.2\DynamoDb.Libs.pdb
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb.Libs\obj\Debug\netcoreapp2.2\DynamoDb.Libs.dll
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb.Libs\obj\Debug\netcoreapp2.2\DynamoDb.Libs.pdb

@@ -1,0 +1,11 @@
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\SESLambda\obj\Debug\netcoreapp2.1\SESLambda.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\SESLambda\obj\Debug\netcoreapp2.1\SESLambda.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\SESLambda\obj\Debug\netcoreapp2.1\SESLambda.AssemblyInfo.cs
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\SESLambda\bin\Debug\netcoreapp2.1\SESLambda.deps.json
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\SESLambda\bin\Debug\netcoreapp2.1\SESLambda.runtimeconfig.json
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\SESLambda\bin\Debug\netcoreapp2.1\SESLambda.runtimeconfig.dev.json
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\SESLambda\bin\Debug\netcoreapp2.1\SESLambda.dll
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\SESLambda\bin\Debug\netcoreapp2.1\SESLambda.pdb
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\SESLambda\obj\Debug\netcoreapp2.1\SESLambda.dll
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\SESLambda\obj\Debug\netcoreapp2.1\SESLambda.pdb
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\SESLambda\obj\Debug\netcoreapp2.1\SESLambda.csprojAssemblyReference.cache

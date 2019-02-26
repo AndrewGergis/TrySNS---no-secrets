@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrySNS", "TrySNS\TrySNS.csproj", "{62038506-9EB7-443F-81E5-E7F89FEB70CC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "testLambda", "testLambda\testLambda.csproj", "{AB50469B-0982-424C-A92D-809024061B87}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSLambdaExt", "AWSLambdaExt\AWSLambdaExt.csproj", "{CC30F596-B0BB-4C31-8F89-B3F8459DFBE6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSServerlessTest", "AWSServerlessTest\AWSServerlessTest.csproj", "{24D87A6F-CDB0-487F-89C5-648F56D8B9F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamoDb.WebAPI", "DynamoDb.WebAPI\DynamoDb.WebAPI.csproj", "{03D8E587-16C9-4D1E-A360-68A8ACE51C4B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamoDb.Libs", "DynamoDb.Libs\DynamoDb.Libs.csproj", "{D3FB714C-EB56-4B34-901C-F01EA278C8B2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SESLambda", "SESLambda\SESLambda.csproj", "{3937A0C2-B873-4AA6-BC3D-BEEAA655C524}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONFix", "JSONFix\JSONFix.csproj", "{D33A0F2E-FA57-405A-9D1C-DF76CA089574}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62038506-9EB7-443F-81E5-E7F89FEB70CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62038506-9EB7-443F-81E5-E7F89FEB70CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62038506-9EB7-443F-81E5-E7F89FEB70CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62038506-9EB7-443F-81E5-E7F89FEB70CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB50469B-0982-424C-A92D-809024061B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB50469B-0982-424C-A92D-809024061B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB50469B-0982-424C-A92D-809024061B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB50469B-0982-424C-A92D-809024061B87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC30F596-B0BB-4C31-8F89-B3F8459DFBE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC30F596-B0BB-4C31-8F89-B3F8459DFBE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC30F596-B0BB-4C31-8F89-B3F8459DFBE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC30F596-B0BB-4C31-8F89-B3F8459DFBE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24D87A6F-CDB0-487F-89C5-648F56D8B9F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D87A6F-CDB0-487F-89C5-648F56D8B9F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D87A6F-CDB0-487F-89C5-648F56D8B9F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D87A6F-CDB0-487F-89C5-648F56D8B9F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03D8E587-16C9-4D1E-A360-68A8ACE51C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03D8E587-16C9-4D1E-A360-68A8ACE51C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03D8E587-16C9-4D1E-A360-68A8ACE51C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03D8E587-16C9-4D1E-A360-68A8ACE51C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3FB714C-EB56-4B34-901C-F01EA278C8B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3FB714C-EB56-4B34-901C-F01EA278C8B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3FB714C-EB56-4B34-901C-F01EA278C8B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3FB714C-EB56-4B34-901C-F01EA278C8B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3937A0C2-B873-4AA6-BC3D-BEEAA655C524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3937A0C2-B873-4AA6-BC3D-BEEAA655C524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3937A0C2-B873-4AA6-BC3D-BEEAA655C524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3937A0C2-B873-4AA6-BC3D-BEEAA655C524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D33A0F2E-FA57-405A-9D1C-DF76CA089574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D33A0F2E-FA57-405A-9D1C-DF76CA089574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D33A0F2E-FA57-405A-9D1C-DF76CA089574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D33A0F2E-FA57-405A-9D1C-DF76CA089574}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F309C48-FE67-48C3-93D1-9DD04F45B897}
+	EndGlobalSection
+EndGlobal

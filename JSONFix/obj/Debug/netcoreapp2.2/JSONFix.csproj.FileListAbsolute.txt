@@ -1,0 +1,13 @@
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\JSONFix\bin\Debug\netcoreapp2.2\JSONFix.deps.json
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\JSONFix\bin\Debug\netcoreapp2.2\JSONFix.runtimeconfig.json
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\JSONFix\bin\Debug\netcoreapp2.2\JSONFix.runtimeconfig.dev.json
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\JSONFix\bin\Debug\netcoreapp2.2\JSONFix.dll
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\JSONFix\bin\Debug\netcoreapp2.2\JSONFix.pdb
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\JSONFix\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\JSONFix\bin\Debug\netcoreapp2.2\Newtonsoft.Json.xml
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\JSONFix\obj\Debug\netcoreapp2.2\JSONFix.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\JSONFix\obj\Debug\netcoreapp2.2\JSONFix.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\JSONFix\obj\Debug\netcoreapp2.2\JSONFix.AssemblyInfo.cs
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\JSONFix\obj\Debug\netcoreapp2.2\JSONFix.csproj.CopyComplete
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\JSONFix\obj\Debug\netcoreapp2.2\JSONFix.dll
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\JSONFix\obj\Debug\netcoreapp2.2\JSONFix.pdb

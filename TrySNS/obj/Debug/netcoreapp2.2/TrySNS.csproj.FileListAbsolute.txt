@@ -1,0 +1,10 @@
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\TrySNS\bin\Debug\netcoreapp2.2\TrySNS.deps.json
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\TrySNS\bin\Debug\netcoreapp2.2\TrySNS.runtimeconfig.json
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\TrySNS\bin\Debug\netcoreapp2.2\TrySNS.runtimeconfig.dev.json
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\TrySNS\bin\Debug\netcoreapp2.2\TrySNS.dll
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\TrySNS\obj\Debug\netcoreapp2.2\TrySNS.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\TrySNS\obj\Debug\netcoreapp2.2\TrySNS.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\TrySNS\obj\Debug\netcoreapp2.2\TrySNS.AssemblyInfo.cs
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\TrySNS\bin\Debug\netcoreapp2.2\TrySNS.pdb
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\TrySNS\obj\Debug\netcoreapp2.2\TrySNS.dll
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\TrySNS\obj\Debug\netcoreapp2.2\TrySNS.pdb

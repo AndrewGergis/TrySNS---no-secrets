@@ -1,0 +1,11 @@
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb\bin\Debug\netcoreapp2.2\DynamoDb.deps.json
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb\bin\Debug\netcoreapp2.2\DynamoDb.runtimeconfig.json
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb\bin\Debug\netcoreapp2.2\DynamoDb.runtimeconfig.dev.json
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb\bin\Debug\netcoreapp2.2\DynamoDb.dll
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb\obj\Debug\netcoreapp2.2\DynamoDb.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb\obj\Debug\netcoreapp2.2\DynamoDb.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb\obj\Debug\netcoreapp2.2\DynamoDb.RazorAssemblyInfo.cache
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb\obj\Debug\netcoreapp2.2\DynamoDb.RazorAssemblyInfo.cs
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb\obj\Debug\netcoreapp2.2\DynamoDb.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb\obj\Debug\netcoreapp2.2\DynamoDb.AssemblyInfo.cs
+C:\Users\andre\Desktop\Washington\AWS_SNS\TrySNS\DynamoDb\obj\Debug\netcoreapp2.2\DynamoDb.RazorTargetAssemblyInfo.cache

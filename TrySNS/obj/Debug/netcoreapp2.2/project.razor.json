@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\andre\\Desktop\\Washington\\AWS_SNS\\TrySNS - no secrets\\TrySNS\\TrySNS.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
